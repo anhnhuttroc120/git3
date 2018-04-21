@@ -14,4 +14,5 @@ tao file1
 sua file 1
 tao file1
 sua file 1
-sua file lan 2222
+sua file lan 2
+nam lam xong 
